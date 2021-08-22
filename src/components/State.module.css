@@ -1,0 +1,13 @@
+.parent {
+  padding: 1rem;
+}
+
+.icon {
+  float: left;
+}
+.stateGroup {
+  margin-left: 20px;
+}
+.stateGroup .stateDetail {
+  opacity: 0.6;
+}
